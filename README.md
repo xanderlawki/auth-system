@@ -295,4 +295,7 @@ EXPOSE 3000
 CMD ["npm", "run", "start:prod"]
 ```
 
+visit the full api documentation 
+[API Documentation](https://documenter.getpostman.com/view/12811269/2sAYJ9Ae6T)
+
  
